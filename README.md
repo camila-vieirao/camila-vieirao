@@ -18,6 +18,7 @@
 <a href="https://twitter.com/capuletodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="capuletodev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/camilavieira7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilavieira7" height="30" width="40" /></a>
 <a href="https://medium.com/@camila.070505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@camila.070505" height="30" width="40" /></a>
+<a href="https://www.dio.me/users/camila_zero70505" width="40px" target="blank"><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="capuletodev" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camila-vieirao&show_icons=true&locale=en&layout=compact&theme=transparent" alt="camila-vieirao" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camila-vieirao&show_icons=true&rank_icon=github&locale=en&theme=transparent" alt="camila-vieirao" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camila-vieirao&show_icons=true&rank_icon=github&locale=en&theme=transparent&hide=stars" alt="camila-vieirao" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camila-vieirao&&theme=transparent" alt="camila-vieirao" /></p>
