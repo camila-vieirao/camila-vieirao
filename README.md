@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camila-vieirao&label=Profile%20views&color=0e75b6&style=flat" alt="camila-vieirao" /> </p>
 
-<p align="left"> <a href="https://twitter.com/capuletodev" target="blank"><img src="https://img.shields.io/twitter/follow/capuletodev?logo=twitter&style=for-the-badge" alt="capuletodev" /></a> </p>
-
-- 🌱 I’m currently learning **Java and Python**
-
 - 📝 **I like to share some things at:** [https://medium.com/@camila.070505](https://medium.com/@camila.070505)
 
 - 📫 **How to reach me:** **camila.070505@gmail.com**
@@ -15,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/capuletodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="capuletodev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/camilavieira7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilavieira7" height="30" width="40" /></a>
 <a href="https://medium.com/@camila.070505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@camila.070505" height="30" width="40" /></a>
 <a href="https://www.dio.me/users/camila_zero70505" width="40px" target="blank"><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="capuletodev" height="40" width="40" /></a>
