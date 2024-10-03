@@ -7,7 +7,7 @@
 
 - 📫 **How to reach me:** **camila.070505@gmail.com**
 
-- 📄 **About my career:** I am currently working as a **Service Delivery Trainee**, but I am planning to become a developer.
+- 📄 **About my career:** I am currently working as a **Data & AI Trainee**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
