@@ -13,3 +13,4 @@
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
 ```
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-vieirao&layout=compact&theme=dracula&langs_count=10&size_weight=0.7&count_weight=0.7)
